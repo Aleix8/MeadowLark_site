@@ -35,7 +35,7 @@ http.createServer(app).listen(app.get('port'), function(){
     app.get('port') + '; press Ctrl-C to terminate.' );
 });
 
-// Array de datos
+// Array de datosSSSS
 var fortuneCookies = [
         'conquer your fears or they will conquer you.',
         'rivers need springs.',
